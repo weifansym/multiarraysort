@@ -1,0 +1,16 @@
+{
+  "name": "multiarraysort",
+  "version": "1.0.1",
+  "description": "Array sort for one condition or multi conditions. ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multi-sort",
+    "condition-sort",
+    "sort"
+  ],
+  "author": "weifansym",
+  "license": "ISC"
+}
